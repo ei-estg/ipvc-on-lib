@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "outDir": "./build",
+    "isolatedModules": true,
+    "declaration": true
+  },
+  "exclude": ["node_modules", "build"]
+}
