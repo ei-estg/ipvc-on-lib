@@ -1,5 +1,5 @@
 {
-  "name": "@geei/on",
+  "name": "ipvc-on-lib",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "scripts": {
